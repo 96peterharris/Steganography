@@ -1,0 +1,78 @@
+.menuStartBtn, .menuEncryptBtn, .menuDecryptBtn, .menuGenerateBtn {
+    -fx-background-color : #EBEBF9;
+    -fx-border-style: none;
+}
+.menuStartBtn:hover, .menuEncryptBtn:hover, .menuDecryptBtn:hover, .menuGenerateBtn:hover{
+    -fx-background-color : #E0E0ED;
+    -fx-cursor: hand;
+    -fx-background-radius: none;
+}
+.menuStartBtn:pressed, .menuEncryptBtn:pressed, .menuDecryptBtn:pressed, .menuGenerateBtn:pressed  {
+    -fx-background-color : #BAB6B3;
+    -fx-cursor: hand;
+}
+.exitBtn {
+    -fx-background-color:  #F74352;
+    -fx-background-radius: 100;
+    -fx-border-style: none;
+}
+.exitBtn:hover {
+    -fx-background-color:  #FC5B6F;
+    -fx-cursor: hand;
+}
+.exitBtn:pressed {
+    -fx-background-color: C04F4C;
+    -fx-cursor: hand;
+}
+.decryptBtn {
+    -fx-border-color:   #B1ADAB;
+    -fx-background-radius:  5;
+    -fx-background-color:   #F0635F;
+    -fx-border-radius:  5;
+    -fx-border-style: solid;
+    -fx-effect: none;
+    -fx-effect: null;
+    -fx-border-width: 1;
+    -fx-background-insets: 0 0 0 1;
+}
+.decryptBtn:hover {
+    -fx-background-color:  #FC5B6F;
+}
+.decryptBtn:pressed {
+    -fx-background-color:  #CA5350;
+}
+.encryptBtn, .generateBtn{
+    -fx-border-color:   #B1ADAB;
+    -fx-background-radius:  5;
+    -fx-background-color:   #75C0D4;
+    -fx-border-radius:  5;
+    -fx-border-style: solid;
+    -fx-effect: none;
+    -fx-effect: null;
+    -fx-border-width: 1;
+    -fx-background-insets: 0 0 0 1;
+}
+.encryptBtn:hover, .generateBtn:hover {
+    -fx-background-color:  #A5D6E3;
+}
+.encryptBtn:pressed, .generateBtn:pressed{
+    -fx-background-color:  #63A3B3;
+}
+.chooseFileBtnD, .chooseFileBtnE, .exportBtnD, .exportBtnE {
+    -fx-background-radius: 5;
+    -fx-border-width: 1;
+    -fx-border-color:  #B1ADAB;
+    -fx-border-radius: 5;
+    -fx-background-color:  #EFEFEF;
+}
+.chooseFileBtnD:hover, .chooseFileBtnE:hover, .exportBtnD:hover, .exportBtnE:hover {
+    -fx-background-color:  #DDDDDD;
+    -fx-cursor: hand;
+}
+.chooseFileBtnD:pressed, .chooseFileBtnE:pressed, .exportBtnD:pressed, .exportBtnE:pressed {
+    -fx-background-color:  #BAB6B3;
+    -fx-cursor: hand;
+}
+.resultLabel1, .resultLabel2, .resultLabel3, .resultLabel4 {
+    -fx-background-color:  "Green";
+}

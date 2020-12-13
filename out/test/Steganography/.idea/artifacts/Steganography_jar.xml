@@ -1,0 +1,29 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Steganography:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Steganography_jar</output-path>
+    <root id="archive" name="Steganography.jar">
+      <element id="module-output" name="Steganography" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/commons-math3-3.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jackson-databind-2.12.0-rc1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jackson-core-2.12.0-rc1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../bin/Java/javafx-sdk-15/lib/src.zip" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../bin/Java/javafx-sdk-15/lib/javafx-swt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../bin/Java/javafx-sdk-15/lib/javafx.web.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../bin/Java/javafx-sdk-15/lib/javafx.base.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../bin/Java/javafx-sdk-15/lib/javafx.fxml.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../bin/Java/javafx-sdk-15/lib/javafx.media.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../bin/Java/javafx-sdk-15/lib/javafx.swing.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../bin/Java/javafx-sdk-15/lib/javafx.controls.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../bin/Java/javafx-sdk-15/lib/javafx.graphics.jar" path-in-jar="/" />
+      <element id="library" level="project" name="commons-lang3-3" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jackson-annotations-2.12.0-rc1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../Program Files/Java/jdk1.8.0_231/jdk1.8.0_231/lib/dt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../Program Files/Java/jdk1.8.0_231/jdk1.8.0_231/lib/tools.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../Program Files/Java/jdk1.8.0_231/jdk1.8.0_231/lib/sa-jdi.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../Program Files/Java/jdk1.8.0_231/jdk1.8.0_231/lib/jconsole.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../Program Files/Java/jdk1.8.0_231/jdk1.8.0_231/lib/packager.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../Program Files/Java/jdk1.8.0_231/jdk1.8.0_231/lib/javafx-mx.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../Program Files/Java/jdk1.8.0_231/jdk1.8.0_231/lib/ant-javafx.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
